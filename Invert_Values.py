@@ -6,4 +6,4 @@ def invert(lst):
         n = lst [i] * -1
         newlst.append(n)
         i = i + 1
-return newlst
+    return newlst
